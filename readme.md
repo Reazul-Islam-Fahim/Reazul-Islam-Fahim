@@ -6,13 +6,13 @@
 👋 Hi, I'm Reazul Islam Fahim—a passionate full-time backend and cross-platform mobile app developer with expertise in Python, FastAPI, Flutter. I love building dynamic, user-friendly applications with clean and efficient code.
 
 🚀 Skills & Interests 
-*🔹 Python, Dart, C#
-*🔹 FastAPI, Flutter, .NET
-*🔹 API Development, API Integration
-*🔹 Database Design and Development, System Architecture
-*🔹 Cross-Platform Mobile Development
-*🔹 Passionate about clean code and best practices
-*🔹 Machine Learning, Deep Learning, Data Science, IoT, Artifical Intelligenece
+- 🔹 Python, Dart, C#
+- 🔹 FastAPI, Flutter, .NET
+- 🔹 API Development, API Integration
+- 🔹 Database Design and Development, System Architecture
+- 🔹 Cross-Platform Mobile Development
+- 🔹 Passionate about clean code and best practices
+- 🔹 Machine Learning, Deep Learning, Data Science, IoT, Artifical Intelligenece
 
 <p>💡 Always exploring new technologies and optimizing web experiences!
 </p>
@@ -51,7 +51,7 @@
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="C#" width="40" height="40"/>
 
-<img src="https://images.seeklogo.com/logo-png/42/2/fastapi-logo-png_seeklogo-425420.png" alt="FastAPI" width="40" height="40"/>
+<img src="https://files.svgcdn.io/logos/fastapi.png" alt="FastAPI" width="40" height="40"/>
 
 <img src="https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png" alt="Flutter" width="40" height="40"/>
 
