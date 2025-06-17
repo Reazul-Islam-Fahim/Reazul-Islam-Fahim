@@ -6,13 +6,13 @@
 👋 Hi, I'm Reazul Islam Fahim—a passionate full-time backend and cross-platform mobile app developer with expertise in Python, FastAPI, Flutter. I love building dynamic, user-friendly applications with clean and efficient code.
 
 🚀 Skills & Interests 
-🔹 Python, Dart, C#
-🔹 FastAPI, Flutter, .NET
-🔹 API Development, API Integration
-🔹 Database Design and Development, System Architecture
-🔹 Cross-Platform Mobile Development
-🔹 Passionate about clean code and best practices
-🔹 Machine Learning, Deep Learning, Data Science, IoT, Artifical Intelligenece
+*🔹 Python, Dart, C#
+*🔹 FastAPI, Flutter, .NET
+*🔹 API Development, API Integration
+*🔹 Database Design and Development, System Architecture
+*🔹 Cross-Platform Mobile Development
+*🔹 Passionate about clean code and best practices
+*🔹 Machine Learning, Deep Learning, Data Science, IoT, Artifical Intelligenece
 
 <p>💡 Always exploring new technologies and optimizing web experiences!
 </p>
@@ -47,20 +47,20 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/dart-original.svg" alt="Dart" width="40" height="40"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*QCajckOeBhRaLzi0RoFqig.png" alt="Dart" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="C#" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frameworks/fastapi-original-wordmark.svg" alt="FastAPI" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" alt="FastAPI" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frameworks/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" alt="Flutter" width="40" height="40"/>
 
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-sqlite-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282687.png?f=webp" alt="SQLite" width="40" height="40"/>
 
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
