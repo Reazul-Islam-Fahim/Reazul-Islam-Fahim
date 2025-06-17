@@ -47,20 +47,20 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*QCajckOeBhRaLzi0RoFqig.png" alt="Dart" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/dart-icon-511x512-jhyea1ft.png" alt="Dart" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="C#" width="40" height="40"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" alt="FastAPI" width="40" height="40"/>
+<img src="https://images.seeklogo.com/logo-png/42/2/fastapi-logo-png_seeklogo-425420.png" alt="FastAPI" width="40" height="40"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" alt="Flutter" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png" alt="Flutter" width="40" height="40"/>
 
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-sqlite-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282687.png?f=webp" alt="SQLite" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRo0Y8B-K-skRKINQNGB_LQz029Cf9VEcsw&s" alt="SQLite" width="40" height="40"/>
 
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
