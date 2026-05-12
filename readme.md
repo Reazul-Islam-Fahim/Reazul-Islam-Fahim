@@ -47,13 +47,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 
-<img src="https://static-00.iconduck.com/assets.00/dart-icon-511x512-jhyea1ft.png" alt="Dart" width="40" height="40"/>
+<img src="[https://static-00.iconduck.com/assets.00/dart-icon-511x512-jhyea1ft.png](https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)" alt="Dart" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="C#" width="40" height="40"/>
 
 <img src="https://files.svgcdn.io/logos/fastapi.png" alt="FastAPI" width="40" height="40"/>
 
-<img src="https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png" alt="Flutter" width="40" height="40"/>
+<img src="[https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png](https://images.seeklogo.com/logo-png/34/1/flutter-logo-png_seeklogo-349577.png)" alt="Flutter" width="40" height="40"/>
 
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
