@@ -29,7 +29,7 @@
 
 - 🔬 Research: **Computer Vision Lab, WorldQuant University**
 
-- 🌱 I’m currently learning: **Kubernetes, Docker, AWS, Cybersecurity**
+- 🌱 I’m currently learning: **Agentic AI, Trustworthy AI, Explainable AI, AI in Cybersecurity**
 
 - 💬 Ask me about: **Python, FastAPI, Machine Learning, Computer Vision, Flutter**
 
