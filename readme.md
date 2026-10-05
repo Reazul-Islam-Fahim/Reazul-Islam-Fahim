@@ -8,13 +8,13 @@
 <br/><br/>
 
 🚀 Skills & Interests
-- 🔹 Machine Learning, Deep Learning, Computer Vision, Data Science
-- 🔹 Python, Dart, C#, C++, Java, JavaScript
-- 🔹 FastAPI, Flutter, React.js, .NET
-- 🔹 API Development, API Integration, CI/CD
-- 🔹 Database Design and Development, System Architecture (monolithic & microservices)
-- 🔹 Time-series forecasting (ARIMA, SARIMA, LSTM) and IoT
-- 🔹 Passionate about clean code and best practices
+-  Machine Learning, Deep Learning, Computer Vision, Data Science
+-  Python, Dart, C#, C++, Java, JavaScript
+-  FastAPI, Flutter, React.js, .NET
+-  API Development, API Integration, CI/CD
+-  Database Design and Development, System Architecture (monolithic & microservices)
+-  Time-series forecasting (ARIMA, SARIMA, LSTM) and IoT
+-  Passionate about clean code and best practices
 
 </div>
 
