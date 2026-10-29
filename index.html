@@ -21,6 +21,8 @@
 🏆 Highlights
 - 🥇 **Winner, Hack am Rhein (Basel)** with ARIADNE, a navigator for the Basel life sciences ecosystem
 - 🥈 **2nd place, Startup Weekend Basel** with Scan4Reuse, an AI app that scans building materials on site and generates a reuse report
+- 🥉 **3rd place overall & 2nd in the Equans challenge, SprintD Zurich** with Favon, which turns a 100+ page public tender PDF into a traceable first price, from extracting quantities to supplier requests and bid scenarios
+- 🥉 **3rd place, Vibe Code Fest** with VentureKnit, which turns a founder's idea or existing website into a scoped mobile app plan with an AI brief, transparent quote and audit trail
 - 📄 Extended abstract accepted at the IEEE Computer Society Bangladesh Chapter Symposium 2024 (Smart LPG System with Usage Prediction)
 
 <br/>
