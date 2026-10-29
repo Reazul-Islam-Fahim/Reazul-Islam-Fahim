@@ -25,7 +25,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on: **[ARIADNE](https://basel.1001ailabs.com)** and **[Scan4Reuse](https://scan4-resource-frontend.vercel.app)**
+- 🔭 I’m currently working on: **[FadäRhy](https://fadarhy.ch/)** and **[Scan4Reuse](https://scan4-resource-frontend.vercel.app)**
 
 - 🔬 Research: **Computer Vision Lab, WorldQuant University**
 
